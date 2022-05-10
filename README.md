@@ -1,17 +1,19 @@
 ## Hello, stranger! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-My name is Emin Afroz. I'm a Software Engineer, currently working mainly with Python and Javascript. I love backend development, along with a tinge of DevOps. I enjoy learning about new development practices and care about code quality. I find Data Structures, Algorithms and Information Security fascinating.
+My name is Emin Afroz. I'm a Software Engineer, currently working mainly with Python and Javascript. I love backend development, along with a tinge of DevOps. I enjoy learning about new coding practices and care about code quality.
+Also, I find Data Structures, Algorithms and Information Security fascinating.
 
-### DSA Profiles
+## Profiles
 <p align="left">
-<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="epsilonalpha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="epsilonalpha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/epsilonalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="epsilonalpha" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@epsilonalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@epsilonalpha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/epsilonalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="epsilonalpha" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/eminafroz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/linkedin.svg" alt="Emin's LinkedIn" height="30" width="40" /></a>
+	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="30" width="40" /></a>
+	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="30" width="40" /></a>
+	<a href="https://www.leetcode.com/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/leetcode.svg" alt="Emin's Leetcode Profile" height="30" width="40" /></a>
+	<a href="https://www.hackerearth.com/@epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerearth.svg" alt="Emin's HackerEarth Profile" height="30" width="40" /></a>
+	<a href="https://auth.geeksforgeeks.org/user/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/geeksforgeeks.svg" alt="Emin's GFG Profile" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools
+## Languages and Tools
 <p align="left">
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
@@ -34,7 +36,7 @@ My name is Emin Afroz. I'm a Software Engineer, currently working mainly with Py
 	<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
 </p>
 
-### GitHub Stats 
+## GitHub Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy" alt="Emin Afroz's Github Stats" height="160"/>
 
