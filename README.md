@@ -1,10 +1,11 @@
-## Hello, stranger! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello, stranger! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+</a>
 
-My name is Emin Afroz. I'm a Software Engineer, currently working mainly with Python and Javascript. I love backend development, along with a tinge of DevOps. I enjoy learning about new coding practices and care about code quality.
-Also, I find Data Structures, Algorithms and Information Security fascinating.
+My name is Emin Afroz. I'm a Software Engineer, currently working mainly in Python and Javascript. I love backend development, along with a tinge of DevOps. I enjoy learning about new coding practices and care about code quality. I also find Data Structures, Algorithms and Information Security fascinating.
 
-## Coding Profiles
+## Profiles
 <p align="left">
+	<a href="https://www.linkedin.com/in/eminafroz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/linkedin.svg" alt="Emin's LinkedIn Profile" height="30" width="40"/>
 	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="30" width="40" /></a>
 	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="30" width="40" /></a>
 	<a href="https://www.leetcode.com/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/leetcode.svg" alt="Emin's Leetcode Profile" height="30" width="40" /></a>
