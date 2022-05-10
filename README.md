@@ -19,7 +19,8 @@ My name is Emin Afroz. I'm a Software Engineer from India, currently working mai
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <br>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+	<a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" /> </a><br>
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /> </a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -36,9 +37,9 @@ My name is Emin Afroz. I'm a Software Engineer from India, currently working mai
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" /> </a>
 </p>
 
-## GitHub Stats 
+## Statistics 
 
-<img src="https://github-readme-stats.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy" alt="Emin Afroz's Github Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy&hide=css" alt="Emin Afroz's Github Stats" height="160"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=epsilon-alpha&color=blue&style=plastic" alt="Emin's Github Profile Views" />
