@@ -3,14 +3,14 @@
 My name is Emin Afroz. I'm a Software Engineer, currently working mainly with Python and Javascript. I love backend development, along with a tinge of DevOps. I enjoy learning about new coding practices and care about code quality.
 Also, I find Data Structures, Algorithms and Information Security fascinating.
 
-## Profiles
+## Coding Profiles
 <p align="left">
-	<a href="https://www.linkedin.com/in/eminafroz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/linkedin.svg" alt="Emin's LinkedIn" height="30" width="40" /></a>
 	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="30" width="40" /></a>
 	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="30" width="40" /></a>
 	<a href="https://www.leetcode.com/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/leetcode.svg" alt="Emin's Leetcode Profile" height="30" width="40" /></a>
 	<a href="https://www.hackerearth.com/@epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerearth.svg" alt="Emin's HackerEarth Profile" height="30" width="40" /></a>
 	<a href="https://auth.geeksforgeeks.org/user/epsilonalpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/geeksforgeeks.svg" alt="Emin's GFG Profile" height="30" width="40" /></a>
+	<a href="https://tryhackme.com/p/EpsilonAlpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/tryhackme.svg" alt="Emin's TryHackMe Profile" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
