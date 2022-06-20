@@ -1,7 +1,8 @@
-## Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hey there! <img height="35" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </a>
 
-My name is Emin Afroz. I'm a Software Engineer from India, currently working mainly in Python and Javascript. I love backend development, along with a tinge of DevOps. I enjoy learning about new coding practices and care about code quality. I also find Data Structures, Algorithms and Information Security fascinating. You can reach me here on [![LinkedIn][1.1]][1].
+My name is Emin Afroz. I'm a Software Engineer from India, currently working in Python and Javascript. I love backend development, along with a tinge of DevOps. Code quality is something I care about. I also find DSA and Information Security fascinating.
+Feel free to reach me here on [![LinkedIn][1.1]][1].
 
 ## Coding Profiles
 <p align="left">
@@ -17,9 +18,9 @@ My name is Emin Afroz. I'm a Software Engineer from India, currently working mai
 <p align="left">
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 	<a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" /> </a><br>
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /> </a>
 	<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
