@@ -2,6 +2,7 @@
 </a>
 
 My name is Emin Afroz. I'm a Software Engineer from India, currently working in Python and Javascript. I love backend development, along with a tinge of DevOps. Code quality is something I care about. I also find DSA and Information Security fascinating.
+
 Feel free to reach me here on [![LinkedIn][1.1]][1].
 
 ## Coding Profiles
