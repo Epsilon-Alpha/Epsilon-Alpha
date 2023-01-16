@@ -45,7 +45,7 @@ Feel free to reach me here on [![LinkedIn][1.1]][1].
 
 ## Statistics 
 
-<img src="https://github-readme-stats.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy&hide=css" alt="Emin Afroz's Github Stats" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy&hide=css" alt="Emin Afroz's Github Stats" height="160"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=epsilon-alpha&color=blue&style=plastic" alt="Emin's Github Profile Views" />
