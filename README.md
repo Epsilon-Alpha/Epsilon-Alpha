@@ -1,7 +1,9 @@
 ## Hey there! <img height="35" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </a>
 
-My name is Emin Afroz. I'm a Software Engineer from India, currently working in Python and Javascript. I love backend development, along with a tinge of DevOps. Code quality is something I care about. I also find DSA and Information Security fascinating.
+Emin here! I'm a Software Engineer from India, currently working in Python and some Javascript. I primarily do backend development, and care about code quality and security.
+
+My hobbies include watching Anime, Video Games, Chess, Piano, and late night walks!
 
 Feel free to reach me here on [![LinkedIn][1.1]][1].
 
