@@ -1,3 +1,15 @@
+<p align="center">
+	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment="></a>
+</p>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=epsilon-alpha&color=1C8C8C&style=for-the-badge" alt="Emin's Github Profile Views" />
+	<a href="https://www.linkedin.com/in/eminafroz/"><img draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
+
+<div align="center" style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://i.pinimg.com/originals/3b/59/ac/3b59acbfa00430117fda937cc6783903.gif" frameBorder="0" class="giphy-embed"></img></div>
+
+
 ## Hey there! <img height="35" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </a>
 
@@ -5,7 +17,6 @@ Emin here! I'm a Software Engineer from India, currently working in Python and s
 
 My hobbies include watching Anime, Video Games, Chess, Piano, and late night walks!
 
-Feel free to reach me here on [![LinkedIn][1.1]][1].
 
 ## Coding Profiles
 <p align="left">
@@ -49,9 +60,7 @@ Feel free to reach me here on [![LinkedIn][1.1]][1].
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy&hide=css" alt="Emin Afroz's Github Stats" height="160"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=epsilon-alpha&color=blue&style=plastic" alt="Emin's Github Profile Views" />
-</p>
+
 
 [1]: https://www.linkedin.com/in/eminafroz/
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
