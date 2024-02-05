@@ -38,9 +38,7 @@ My hobbies include watching Anime, Video Games, Chess, Piano, and late night wal
 ## Statistics 
 [![Emin's GitHub Stats (dark)](https://github-readme-stats-ruddy-eta-97.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Emin's GitHub Stats (light)](https://github-readme-stats-ruddy-eta-97.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 &nbsp;
-
 [![Emin's Top Languages](https://github-readme-stats-ruddy-eta-97.vercel.app/api/top-langs?username=epsilon-alpha&layout=donut&count_private=true&show_icons=true&theme=transparent&hide=css,jinja,Dockerfile,Actionscript&exclude_repo=CP)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Emin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Epsilon-Alpha&custom_title=Emin's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=none)](https://github.com/ashutosh00710/github-readme-activity-graph)
