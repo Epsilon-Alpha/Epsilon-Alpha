@@ -21,40 +21,19 @@ My hobbies include watching Anime, Video Games, Chess, Piano, and late night wal
 
 ## Coding Profiles
 <p>
-	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="30" width="40" /></a>
-	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="30" width="40" /></a>
+	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="40" width="40" /></a>
+	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="40" width="40" /></a>
 	<a href="https://www.leetcode.com/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/leetcode.svg" alt="Emin's Leetcode Profile" height="30" width="40" /></a>
-	<a href="https://www.hackerearth.com/@epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerearth.svg" alt="Emin's HackerEarth Profile" height="30" width="40" /></a>
-	<a href="https://auth.geeksforgeeks.org/user/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/geeksforgeeks.svg" alt="Emin's Geeksforgeeks Profile" height="30" width="40" /></a>
-	<a href="https://tryhackme.com/p/EpsilonAlpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/tryhackme.svg" alt="Emin's TryHackMe Profile" height="30" width="40" /></a>
+	<a href="https://www.hackerearth.com/@epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerearth.svg" alt="Emin's HackerEarth Profile" height="40" width="40" /></a>
+	<a href="https://auth.geeksforgeeks.org/user/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/geeksforgeeks.svg" alt="Emin's Geeksforgeeks Profile" height="40" width="40" /></a>
+	<a href="https://tryhackme.com/p/EpsilonAlpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/tryhackme.svg" alt="Emin's TryHackMe Profile" height="40" width="40" /></a>
 </p>
 
 ## Languages and Tools
-<p> 
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-	<a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" /> </a><br>
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /> </a>
-	<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-	<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a>
-	<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a>
-	<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /> </a>
-	<a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" /> </a>
-	<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /> </a>
-	<a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40" /> </a>
-	<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" /> </a>
-	<a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40" /> </a>
-	<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a>
-	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" /> </a>
-	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
-	<a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40" /> </a>
-</p>
-
+[![My Languages](https://skillicons.dev/icons?i=py,js,java,bash,cpp)](https://skillicons.dev)
+<br>
+[![My Tools](https://skillicons.dev/icons?i=aws,linux,git,postman,postgres,mysql,redis,flask,django,angular,nginx,selenium,vscode,atom,vim&perline=5)](https://skillicons.dev)
+ 
 
 ## Statistics 
 
