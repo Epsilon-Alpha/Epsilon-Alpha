@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment="></a>
+	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
 </p>
 
 <p >
@@ -36,8 +36,11 @@ My hobbies include watching Anime, Video Games, Chess, Piano, and late night wal
  
 
 ## Statistics 
+![Emin's GitHub stats](https://github-readme-stats-ruddy-eta-97.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true)
+&nbsp;
+![Emin's Top Languages](https://github-readme-stats-ruddy-eta-97.vercel.app/api/top-langs?username=epsilon-alpha&layout=donut&count_private=true&show_icons=true&theme=transparent&hide=css&exclude_repo=CP)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&theme=buefy" alt="Emin's Github Stats" height="160"/> &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=epsilon-alpha&layout=compact&count_private=true&show_icons=true&theme=buefy&hide=css" alt="Emin Afroz's Github Stats" height="160"/>
+[![Emin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Epsilon-Alpha&custom_title=Emin's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=none)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
