@@ -3,23 +3,23 @@
 	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
 </p>
 
-<p >
-	<img src="https://komarev.com/ghpvc/?username=epsilon-alpha&color=1C8C8C&style=for-the-badge" alt="Emin's Github Profile Views" />
-	<a href="https://www.linkedin.com/in/eminafroz/"><img draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<p>
+	<img src="https://komarev.com/ghpvc/?username=epsilon-alpha&color=1C8C8C&style=for-the-badge" alt="Emin's Github Profile Views">
+	<a href="https://www.linkedin.com/in/eminafroz/"><img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
 </p>
 
-<div  style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://i.pinimg.com/originals/3b/59/ac/3b59acbfa00430117fda937cc6783903.gif" frameBorder="0" class="giphy-embed"></img></div>
+<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://i.pinimg.com/originals/3b/59/ac/3b59acbfa00430117fda937cc6783903.gif" class="giphy-embed" alt="Kirito"></div>
 
 
-## Hey there! <img height="35" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-</a>
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
 
 Emin here! I'm a Software Engineer from India, currently working in Python and some Javascript. I primarily do backend development, and care about code quality and security.
 
 My hobbies include watching Anime, Video Games, Chess, Piano, and late night walks!
 
 
-## Coding Profiles
+<h2 align="center">Coding Profiles</h2>
 <p>
 	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="40" width="40" /></a>
 	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="40" width="40" /></a>
