@@ -41,7 +41,7 @@ My hobbies include watching Anime, Video Games, Chess, Piano, and late night wal
 &nbsp;
 [![Emin's Top Languages](https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api/top-langs?username=epsilon-alpha&layout=donut&count_private=true&show_icons=true&theme=transparent&hide=css,jinja,Dockerfile,Actionscript&exclude_repo=CP)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Emin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Epsilon-Alpha&custom_title=Emin's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=none)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Emin's github activity graph](https://github-readme-activity-graph-nu.vercel.app/graph?username=Epsilon-Alpha&custom_title=Emin's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=none)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Thank you for the visit!
 <img draggable="false" src="https://i.imgur.com/9tIFmUS.gif" alt="Naruto">
