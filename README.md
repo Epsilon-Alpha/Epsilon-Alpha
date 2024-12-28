@@ -16,18 +16,17 @@
 
 Emin here! I'm a Software Engineer from India, currently working in Python and Javascript. I primarily do backend development, and care about code quality and security.
 
-My hobbies include watching Anime, Video Games, Chess, Piano, and late night walks!
+My hobbies include watching Anime, Video Games, Chess, Piano, Spirituality and late night walks!
 
 
 <h2 align="center">Coding Profiles</h2>
-<p>
-	<a href="https://www.hackerrank.com/epsilonalpha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerrank.svg" alt="Emin's HackerRank Profile" height="40" width="40" /></a>
-	<a href="https://www.codechef.com/users/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/codechef.svg" alt="Emin's Codechef Profile" height="40" width="40" /></a>
-	<a href="https://www.leetcode.com/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/leetcode.svg" alt="Emin's Leetcode Profile" height="30" width="40" /></a>
-	<a href="https://www.hackerearth.com/@epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackerearth.svg" alt="Emin's HackerEarth Profile" height="40" width="40" /></a>
-	<a href="https://auth.geeksforgeeks.org/user/epsilonalpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/geeksforgeeks.svg" alt="Emin's Geeksforgeeks Profile" height="40" width="40" /></a>
-	<a href="https://tryhackme.com/p/EpsilonAlpha" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/tryhackme.svg" alt="Emin's TryHackMe Profile" height="40" width="40" /></a>
-</p>
+
+[![Emin's HackerRank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/epsilonalpha)
+[![Emin's Codechef Profile](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/epsilonalpha)
+[![Emin's Leetcode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/epsilonalpha)
+[![Emin's HackerEarth Profile](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@epsilonalpha)
+[![Emin's Geeksforgeeks Profile](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/epsilonalpha)
+[![Emin's TryHackMe Profile](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/EpsilonAlpha)
 
 ## Languages and Tools
 [![My Languages](https://skillicons.dev/icons?i=py,js,java,bash,cpp)](https://skillicons.dev)
